@@ -1,0 +1,6 @@
+isbn,title,authors,publisher,published_year
+9780439139595,The Chronicles of Narnia,C.S. Lewis,HarperCollins,2000
+9780547928210,The Hobbit,J.R.R. Tolkien,Houghton Mifflin,2012
+9780061120084,To Kill a Mockingbird,Harper Lee,HarperCollins,2006
+9780451524935,1984,George Orwell,Signet Classics,1950
+9780142437247,Frankenstein,Mary Shelley,Penguin,2003
